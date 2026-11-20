@@ -1,2 +1,2 @@
 # mambruk
-terbang mambruk IAIN Sorong
+Game penyemangat LPJ IAIN Sorong
